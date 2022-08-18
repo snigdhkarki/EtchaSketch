@@ -1,0 +1,20 @@
+.parent{
+    height:500px;
+    width:500px;
+    border: 2px solid black;
+    display:flex;
+
+
+}
+.click.cell{
+    background-color: red;
+}
+
+.cell{
+
+    border: 2px solid black;
+    
+}
+.rell{
+    background-color: aqua;
+}
